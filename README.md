@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thepushkarb" alt="thepushkarb" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?thepushkarB=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <a href="https://twitter.com/thepushkarb" target="blank"><img src="https://img.shields.io/twitter/follow/thepushkarb?logo=twitter&style=for-the-badge" alt="thepushkarb" /></a> </p>
 
 - 📝 I write articles on [https://medium.com/@pushkarbankar05](https://medium.com/@pushkarbankar05)
