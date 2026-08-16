@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/thepushkarb" target="blank"><img src="https://img.shields.io/twitter/follow/thepushkarb?logo=twitter&style=for-the-badge" alt="thepushkarb" /></a> </p>
 
-- 📝 I write articles on [https://medium.com/@pushkarbankar05](https://medium.com/@pushkarbankar05)
+- 📝 I write articles on [Medium](https://medium.com/@pushkarbankar05)
 
-- 👨‍💻 All of my projects are available at **[https://pushkarbankar.netlify.app/](https://pushkarbankar.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[Portfilio](https://pushkarbankar.netlify.app/)**
 
 - 📫 How to reach me **pushkarbankar.sit.comp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N4yCWVM8fREZmYOz1nCBcUKTM1UsUo9C/view](https://drive.google.com/file/d/1N4yCWVM8fREZmYOz1nCBcUKTM1UsUo9C/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1N4yCWVM8fREZmYOz1nCBcUKTM1UsUo9C/view)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
