@@ -29,31 +29,40 @@
 </p>
 
 <h3 align="left">Tech Stack:</h3>
-<h4>Languages</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,java,html,css&perline=5" />
-</p>
+<h3 align="left">Tech Stack</h3>
 
-<h4>Frontend</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&perline=4" />
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <strong>Languages</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=js,py,java,html,css&perline=5" height="32"/>
+    </td>
+    <td valign="top">
+      <strong>Frontend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&perline=4" height="32"/>
+    </td>
+  </tr>
 
-<h4>Backend & APIs</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=3" />
+  <tr>
+    <td valign="top">
+      <strong>Backend & APIs</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=3" height="32"/>
+    </td>
+    <td valign="top">
+      <strong>Database & Cloud</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,aws&perline=2" height="32"/>
+    </td>
+  </tr>
 
-<h4>Database & Cloud</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,aws&perline=2" />
-</p>
-
-<h4>AI / GenAI</h4>
-<p align="left">
-  <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/gradio" alt="Gradio" width="40" height="40"/>
-
-<h4>Developer Tools & Platforms</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,netlify&perline=4" />
-</p>
+  <tr>
+    <td valign="top">
+      <strong>AI / GenAI</strong><br><br>
+      <img src="https://cdn.simpleicons.org/huggingface" height="32" alt="Hugging Face"/>
+      <img src="https://cdn.simpleicons.org/gradio" height="32" alt="Gradio"/>
+    </td>
+    <td valign="top">
+      <strong>Developer Tools</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,netlify&perline=4" height="32"/>
+    </td>
+  </tr>
+</table>
