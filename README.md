@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Pushkar</h1>
 <h3 align="center">A Backend-focused Full Stack Developer primarily working w/ the MERN stack.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thepushkarb&label=Profile%20views&color=0e75b6&style=flat" alt="thepushkarb" /> </p>
-
-<p align="left"> <a href="https://twitter.com/thepushkarb" target="blank"><img src="https://img.shields.io/twitter/follow/thepushkarb?logo=twitter&style=for-the-badge" alt="thepushkarb" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thepushkarb&label=Profile%20views&color=0e75b6&style=flat" alt="thepushkarb" /> </p>
 
 - 📝 I write articles on [Medium](https://medium.com/@pushkarbankar05)
 
