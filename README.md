@@ -15,6 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Designing RESTful Routes Properly](https://medium.com/@pushkarbankar05/designing-restful-routes-properly-2ec5e5f47a8c?source=rss-a457aaf9bfa7------2)
+- [The Delegation Problem: What Actually Led to OAuth](https://medium.com/@pushkarbankar05/the-delegation-problem-what-actually-led-to-oauth-05e3d6259d66?source=rss-a457aaf9bfa7------2)
+- [YouTube Culture &amp; Trends Analysis](https://medium.com/@pushkarbankar05/youtube-culture-trends-analysis-a6dd527df4c4?source=rss-a457aaf9bfa7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
